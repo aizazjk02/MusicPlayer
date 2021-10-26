@@ -91,9 +91,12 @@ html {
     font-size: 30px;
     color: rgb(129, 129, 129);
     margin-right: 30px;
-  
+    cursor: pointer;
   }
   
+  .fas:hover {
+      filter: brightness(20%);
+  }
   
   
   .main-button {
