@@ -75,6 +75,7 @@ html {
     position: relative;
     top: -25px;
     display: flex;
+    width: 350px;
     justify-content: space-between;
   }
   
